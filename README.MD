@@ -9,5 +9,5 @@ https://rottingpixels.itch.io/platformer-dungeon-tileset <br>
 <br><br>
 ## Helpful Tutorials
 
-[Brackeys Tutorial 1hr](https://www.youtube.com/watch?v=LOhfqjmasi0)
-[Coco Code 22min](https://www.youtube.com/watch?v=5V9f3MT86M8)
+[Brackeys Tutorial | 1hr](https://www.youtube.com/watch?v=LOhfqjmasi0)<br>
+[Coco Code | 22min](https://www.youtube.com/watch?v=5V9f3MT86M8)
