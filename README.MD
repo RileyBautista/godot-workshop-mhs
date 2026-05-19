@@ -1,5 +1,8 @@
 # Godot Workshop
 
+## GDScript Reference
+https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
+
 ## Asset Packs
 https://pixelfrog-assets.itch.io/pixel-adventure-1 <br>
 https://sandstormdev.itch.io/platformer-tileset <br>
