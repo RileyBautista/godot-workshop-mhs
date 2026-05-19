@@ -6,7 +6,7 @@ https://sandstormdev.itch.io/platformer-tileset <br>
 https://brackeysgames.itch.io/brackeys-platformer-bundle <br>
 https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack <br>
 https://rottingpixels.itch.io/platformer-dungeon-tileset <br>
-<br><br>
+<br>
 ## Helpful Tutorials
 
 [Brackeys Tutorial | 1hr](https://www.youtube.com/watch?v=LOhfqjmasi0)<br>
